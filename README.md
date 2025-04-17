@@ -1,1 +1,3 @@
-# Nativesofttechtask2
+name : phaneendra 
+company: nativesofttech 
+internship: web development 
